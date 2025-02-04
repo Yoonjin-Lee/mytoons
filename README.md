@@ -31,7 +31,7 @@
 웹툰을 좋아하는 사람이라면 요일별로 꼭 챙겨보는 웹툰이 있을 것입니다.  
 여러 플랫폼을 오가며 웹툰을 찾아보는 과정이 번거롭게 느껴진 적은 없으신가요?  
 이런 불편함을 해결하고자, 한곳에서 편리하게 웹툰을 즐길 수 있는 앱을 개발했습니다!  
-이 앱은 사용자가 좋아하는 장르의 웹툰을 손쉽게 찾을 수 있도록, Gemini API 기반의 Vertax AI를 활용하여 장르 추천 AI 기능도 제공합니다.  
+이 앱은 사용자가 좋아하는 장르의 웹툰을 손쉽게 찾을 수 있도록, Gemini API 기반의 Vertex AI를 활용하여 장르 추천 AI 기능도 제공합니다.  
   
 As a webtoon lover, you probably have favorite webtoons that you follow every day.  
 Have you ever felt frustrated searching through multiple platforms?  
