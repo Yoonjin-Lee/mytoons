@@ -24,14 +24,14 @@
   <img src="https://img.shields.io/badge/Coroutine-D9D9D9?style=flat-square&logo=Coroutine&logoColor=white"/>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![explore webtoon](https://github.com/user-attachments/assets/33d91cc1-853c-4d43-a208-6614148379da)
 
 ## Key Features
 
 웹툰을 좋아하는 사람이라면 요일별로 꼭 챙겨보는 웹툰이 있을 것입니다.  
 여러 플랫폼을 오가며 웹툰을 찾아보는 과정이 번거롭게 느껴진 적은 없으신가요?  
 이런 불편함을 해결하고자, 한곳에서 편리하게 웹툰을 즐길 수 있는 앱을 개발했습니다!  
-이 앱은 사용자가 좋아하는 장르의 웹툰을 손쉽게 찾을 수 있도록, Gemini API 기반의 Vertax AI를 활용하여 장르 추천 AI 기능도 제공합니다.  
+이 앱은 사용자가 좋아하는 장르의 웹툰을 손쉽게 찾을 수 있도록, Gemini API 기반의 Vertex AI를 활용하여 장르 추천 AI 기능도 제공합니다.  
   
 As a webtoon lover, you probably have favorite webtoons that you follow every day.  
 Have you ever felt frustrated searching through multiple platforms?  
@@ -52,7 +52,15 @@ Additionally, it features a webtoon recommendation system powered by the Gemini 
 * **AI-based Webtoon Recommendation** : Get personalized webtoon recommendations powered by the Gemini API.
 
 ## How To Use
-### Login with google
 ### Add webtoons
+![웹툰 추가](https://github.com/user-attachments/assets/b99d7c6c-863c-45bc-80d4-639f9f0f36d0)
+
 ### enjoy by WebView!
+![explore webtoon](https://github.com/user-attachments/assets/de80a7d8-56f0-4773-a490-1821e33924db)
+
 ### get recommendation by Gemini!
+![chat with gemini](https://github.com/user-attachments/assets/119ad00c-f0d9-4287-acd2-66ea1b63ce21)
+
+### Login with google
+![구글 로그인](https://github.com/user-attachments/assets/fb2283c8-12ee-44da-9748-59c9e5d6a989)
+
